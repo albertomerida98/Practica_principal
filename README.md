@@ -6,7 +6,7 @@ link_hub: https://github.com/mgarciavaz/Practica_Eda_Miguel_Garcia
 
 Nombre: Alberto Mérida-Nicolich Martínez
 Correo: alberto.merida@cunef.edu
-link repositorio github: https://github.com/albertomerida98/PracticaEDA/tree/main/PracticaEDA
+link repositorio github: https://github.com/albertomerida98/Practica_principal/tree/main/Practica_principal
 
 dataset: https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data
 
